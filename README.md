@@ -1,8 +1,8 @@
 # The-Coding-Arcade
-The Coding Arcade is a collection of games, and can be easily played by anyone, around the globe! 
+The Coding Arcade is a collection of games that can be easily played by anyone around the globe! 
 these games are made by different coders around the world! 
 if you want to try my games, (which are horrible)  you are free to explore my repositories!
-But i added some of my games to this arcade! Feel free to explore...
+But! I added some of my games to this arcade! Feel free to explore...
 
 
 
