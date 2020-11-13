@@ -135,3 +135,8 @@ Matrix Rain > https://xie-emily.com/generative_art/green_rain.html
 Matrix Rain 2 > https://xie-emily.com/generative_art/green_rain.html
 
 Infinite Terrain > https://editor.p5js.org/anitahartanto178/full/l-WgecrQw
+
+# Recommendations
+
+Outrun! (The Best game so far!) > https://codeincomplete.com/games/racer/
+The music in this game might not be working,so just in case, i added a classic Outrun music to play with! > https://www.youtube.com/watch?v=2-oBj5kj_K0
