@@ -69,9 +69,8 @@ Enjoy! :)
 
 
 
-
-# Instructions
-if you don't understand how to play the games... Here are some instructions!
+<details>
+ <summary>:zap: Gaming Instructions</summary>
 
 Super Mario Odyssey,
 Your objective is to get the 'moon' in one piece, to do double jumps, click space and jump on the hat! try not to die and have fun!
@@ -92,6 +91,7 @@ I'll hopefully add more games to the Arcade in the future!
 Have fun!
 
 
+</details>
 
 # Articles
 
