@@ -65,6 +65,11 @@ Minesweeper! (My Version) > https://editor.p5js.org/anitahartanto178/full/IssuRT
 
 Phaser Driving! > https://poisonvial.itch.io/phaser-driving
 
+Elemental One > http://voithos.io/elemental-one/
+
+HexGL > http://hexgl.bkcore.com/play/
+
+
 Enjoy! :)
 
 
