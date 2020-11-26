@@ -1,6 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 # The-Coding-Arcade
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
 The Coding Arcade is a collection of games that can be easily played by anyone around the globe! 
 these games are made by different coders around the world! 
 if you want to try my games, (which are horrible)  you are free to explore my repositories!
